@@ -1,0 +1,7 @@
+pandas
+rich
+tqdm
+bs4
+joblib
+requests
+lxml
